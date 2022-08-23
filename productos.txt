@@ -1,0 +1,20 @@
+[
+  {
+    "title": "teclado",
+    "price": "2500",
+    "thumbnail": "https://es.wikipedia.org/wiki/Teclado_%28inform%C3%A1tica%29",
+    "id": 1
+  },
+  {
+    "title": "auriculares",
+    "price": "1850",
+    "thumbnail": "https://iglufive.com.ar/productos/auriculares-bluetooth-luz-led-orejas-cat/",
+    "id": 2
+  },
+  {
+    "title": "microfono",
+    "price": "2500",
+    "thumbnail": "https://www.amazon.com/-/es/SUDOTACK-Micr%C3%B3fono-streaming-condensador-profesional/dp/B07S8SSTJW",
+    "id": 3
+  }
+]
